@@ -1,4 +1,4 @@
-﻿Study_ID;Author_Year;Study;topic;outcome;Condition;N_exp;M_exp;S_exp;N_con;M_con;S_con;;;;;;;;
+Study_ID;Author_Year;Study;topic;outcome;Condition;N_exp;M_exp;S_exp;N_con;M_con;S_con;;;;;;;;
 2A-1;Boudewyns2020;1;medication;claim acceptance;consumers_few;120;3,22;1,1;132;2,98;1,15;;;;;;;;
 2A-2;Boudewyns2020;1;medication;claim acceptance;consumers_many;114;3,42;1,17;132;2,98;1,15;;;;;;;;
 2B-1;Boudewyns2020;2;medication;claim acceptance;pcp_few;118;3,54;1,2;129;3,36;1,14;;;;;;;;
